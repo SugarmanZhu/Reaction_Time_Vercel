@@ -13,7 +13,7 @@ First, run the development server:
 git clone https://github.com/SugarmanZhu/Reaction_Time_Vercel.git
 cd Reaction_Time_Vercel
 npm install
-npm dev
+npm run dev
 ```
 
 Then, open the browser and navigate to the URL:
