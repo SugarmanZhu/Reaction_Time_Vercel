@@ -1,40 +1,32 @@
-# reaction_time
+# Reaction Time Tester
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a VueJS project.
 
-## Recommended IDE Setup
+## View the Page
+Open a browser and navigate to the URL [https://reaction-time.zhuxiaotan.xyz](https://reaction-time.zhuxiaotan.xyz) to view the page.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Running the code loaclly
 
-## Type Support for `.vue` Imports in TS
+First, run the development server:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
+git clone https://github.com/SugarmanZhu/Reaction_Time_Vercel.git
+cd Reaction_Time_Vercel
 npm install
+npm dev
 ```
 
-### Compile and Hot-Reload for Development
+Then, open the browser and navigate to the URL:
 
-```sh
-npm run dev
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to view the page.
 
-### Type-Check, Compile and Minify for Production
+## Deploy on Vercel
 
-```sh
-npm run build
-```
+Fork this repository and then import and deploy on Vecel.
+
+More information on Vercel Deployment: [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+
+## Features
+- Click when blue
+- Wait when red
+- Click as fast as possible when green
