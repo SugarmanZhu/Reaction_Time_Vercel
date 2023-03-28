@@ -3,7 +3,7 @@
 This is a VueJS project.
 
 ## View the Page
-Open a browser and navigate to the URL [https://reaction-time.zhuxiaotan.xyz](https://reaction-time.zhuxiaotan.xyz) to view the page.
+Open a browser and navigate to the URL [https://reaction-time.zhuxiaotan.com](https://reaction-time.zhuxiaotan.com) to view the page.
 
 ## Running the code loaclly
 
