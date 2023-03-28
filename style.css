@@ -17,4 +17,8 @@ message {
   padding: 10px;
   color: rgb(251, 251, 253);
   font-size: 3em;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }/*# sourceMappingURL=style.css.map */
